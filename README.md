@@ -8,6 +8,7 @@ Baixe os seguintes mods:
 
 [link](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/5907337)
 [link DOIS](https://www.curseforge.com/minecraft/mc-mods/offlineskins/download/2744747)
+[link TRES](https://www.curseforge.com/minecraft/mc-mods/xnet/download/2745852)
 
 # Passo 3 / Launcher Alternativo
 
