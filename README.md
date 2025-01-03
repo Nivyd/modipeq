@@ -12,6 +12,7 @@ Baixe os seguintes mods:
 [link QUATRO](https://www.curseforge.com/minecraft/mc-mods/mcjtylib/download/2745846)
 [link CINCO](https://www.curseforge.com/minecraft/mc-mods/rftools/download/2861573)
 [LINK SETE FINAL](https://www.curseforge.com/minecraft/mc-mods/simple-login/download/2996748)
+[mochila](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack/download/3150850)
 
 # Passo 3 / Launcher Alternativo
 
