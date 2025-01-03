@@ -4,10 +4,9 @@ Primeiro baixe o modpack [aqui](https://www.curseforge.com/minecraft/modpacks/no
 
 # Passo 2
 
-Baixe os seguintes mods:
+Baixe o seguinte mod:
 
 [link](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/5907337)
-[link](https://www.curseforge.com/minecraft/mc-mods/customskinloader/download/5896870)
 
 # Passo 3
 
