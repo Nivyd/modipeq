@@ -28,4 +28,5 @@ Baixe esse launcher:
 Clique em add instance, CurseForge e baixe o nomifactory CEu, apos isso entre para editar o modpack e arraste ambos os mods que mandei baixar na aba mods.
 
 ***Em caso de dúvidas, contate @nivyd no discord***
+se for problema no java eu ajudo rapidao
 
