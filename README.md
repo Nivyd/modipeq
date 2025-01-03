@@ -8,7 +8,7 @@ Baixe o seguinte mod:
 
 [link](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/5907337)
 
-# Passo 3
+# Passo 3 / Launcher Alternativo
 
 Abra o minecraft, com pelo menos 4GB de ram alocados e logue no ip:
 **nomifactoryceu.enxada.host**
