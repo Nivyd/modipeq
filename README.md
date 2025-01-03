@@ -4,9 +4,10 @@ Primeiro baixe o modpack [aqui](https://www.curseforge.com/minecraft/modpacks/no
 
 # Passo 2
 
-Baixe o seguinte mod:
+Baixe os seguintes mods:
 
 [link](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/5907337)
+[link](https://www.curseforge.com/minecraft/mc-mods/offlineskins/download/2744747)
 
 # Passo 3 / Launcher Alternativo
 
