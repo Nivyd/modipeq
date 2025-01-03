@@ -9,6 +9,9 @@ Baixe os seguintes mods:
 [link](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/5907337)
 [link DOIS](https://www.curseforge.com/minecraft/mc-mods/offlineskins/download/2744747)
 [link TRES](https://www.curseforge.com/minecraft/mc-mods/xnet/download/2745852)
+[link QUATRO](https://www.curseforge.com/minecraft/mc-mods/mcjtylib/download/2745846)
+[link CINCO](https://www.curseforge.com/minecraft/mc-mods/rftools/download/2861573)
+[link SEIS](https://www.curseforge.com/minecraft/mc-mods/the-one-probe/download/2667280)
 
 # Passo 3 / Launcher Alternativo
 
