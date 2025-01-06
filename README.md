@@ -8,7 +8,7 @@ Baixe os seguintes mods:
 
 [link](https://www.curseforge.com/minecraft/mc-mods/embeddium/files/5322305)
 [link DOIS](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus/files/5436750)
-[link TRES](https://www.curseforge.com/minecraft/mc-mods/embeddium/files/5322305)
+[link TRES](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907359)
 [link QUATRO](https://www.curseforge.com/minecraft/mc-mods/simple-login/download/3864949)
 [link cinco](https://www.curseforge.com/minecraft/mc-mods/offlineskins/download/3772643)
 
