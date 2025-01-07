@@ -11,6 +11,9 @@ Baixe os seguintes mods:
 [link TRES](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907359)
 [link QUATRO](https://www.curseforge.com/minecraft/mc-mods/simple-login/download/3864949)
 [link cinco](https://www.curseforge.com/minecraft/mc-mods/offlineskins/download/3772643)
+[link seis](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/download/5296312)
+[link sete](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/download/5654080)
+[link oito](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/5809745)
 
 # Passo 3 / Launcher Alternativo
 
