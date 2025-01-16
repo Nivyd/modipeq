@@ -19,7 +19,7 @@ Baixe esse launcher:
 
 [Crackeado](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/9.0/PrismLauncher-Windows-MSVC-Setup-9.0.exe)
 
-Clique em add instance, CurseForge e baixe o FTB StoneBlock 3, apos isso entre para editar o modpack e arraste ambos os mods que mandei baixar na aba mods.
+Clique em add instance, CurseForge e selecione o zip baixado
 
 ***Em caso de dúvidas, contate @nivyd no discord***
 se for problema no java eu ajudo rapidao
