@@ -2,7 +2,7 @@
 
 baixe o modpack [aqui](https://download1584.mediafire.com/l312fh0pdkrgHIrqjtIhiAWjpujV36fyEM4PdqjQTX8-3huulZfcQzkoDO-Kixhb_5dBAzAyUjzeSrin5Sa4uQkt7lFOVFArjHG2tTCBRiJXjXpwy9PZlQ7DBjPfr6U0ScPAaWe8c567bkhOTZ1Ciz4T-SEXGX2U0xo8n9qw8UTdAw/ldoznuf7t3kzvn5/sf5.zip)
 
-
+***baixem pelo git pq tem mod extra***
 # Passo 2 / Launcher Alternativo
 
 Abra o minecraft, com pelo menos 4GB de ram alocados e logue no ip:
