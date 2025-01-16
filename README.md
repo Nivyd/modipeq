@@ -1,24 +1,12 @@
 # Passo 1
 
-Primeiro baixe o modpack [aqui](https://www.curseforge.com/minecraft/modpacks/ftb-stoneblock-3/files/5904937)
+baixe o modpack [aqui](https://download1584.mediafire.com/l312fh0pdkrgHIrqjtIhiAWjpujV36fyEM4PdqjQTX8-3huulZfcQzkoDO-Kixhb_5dBAzAyUjzeSrin5Sa4uQkt7lFOVFArjHG2tTCBRiJXjXpwy9PZlQ7DBjPfr6U0ScPAaWe8c567bkhOTZ1Ciz4T-SEXGX2U0xo8n9qw8UTdAw/ldoznuf7t3kzvn5/sf5.zip)
 
-# Passo 2
 
-Baixe os seguintes mods:
-
-[link](https://www.curseforge.com/minecraft/mc-mods/embeddium/files/5322305)
-[link DOIS](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus/files/5436750)
-[link TRES](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907359)
-[link QUATRO](https://www.curseforge.com/minecraft/mc-mods/simple-login/download/3864949)
-[link cinco](https://www.curseforge.com/minecraft/mc-mods/offlineskins/download/3772643)
-[link seis](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/download/5296312)
-[link sete](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/download/5654080)
-[link oito](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/5809745)
-
-# Passo 3 / Launcher Alternativo
+# Passo 2 / Launcher Alternativo
 
 Abra o minecraft, com pelo menos 4GB de ram alocados e logue no ip:
-**stoneblock3link.enxada.host**
+**sf5.enxada.host**
 
 Pronto!
 
