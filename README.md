@@ -19,7 +19,7 @@ Baixe esse launcher:
 
 [Crackeado](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/9.0/PrismLauncher-Windows-MSVC-Setup-9.0.exe)
 
-Clique em add instance, CurseForge e selecione o zip baixado
+Clique em add instance, import e selecione o zip baixado
 
 ***Em caso de dúvidas, contate @nivyd no discord***
 se for problema no java eu ajudo rapidao
