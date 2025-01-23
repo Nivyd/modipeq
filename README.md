@@ -1,26 +1,25 @@
 # Passo 1
 
-baixe o modpack [aqui](https://download1584.mediafire.com/l312fh0pdkrgHIrqjtIhiAWjpujV36fyEM4PdqjQTX8-3huulZfcQzkoDO-Kixhb_5dBAzAyUjzeSrin5Sa4uQkt7lFOVFArjHG2tTCBRiJXjXpwy9PZlQ7DBjPfr6U0ScPAaWe8c567bkhOTZ1Ciz4T-SEXGX2U0xo8n9qw8UTdAw/ldoznuf7t3kzvn5/sf5.zip)
+baixe o modpack [aqui](https://www.curseforge.com/minecraft/modpacks/vault-hunters-1-18-2/download/5925838)
+Pasta com mods extras obrigatorios: [link](https://drive.google.com/file/d/1v8qsthYR5xi_2g2v_qbsNT4dF3WiObOR/view?usp=sharing)
 
-***baixem pelo git pq tem mod extra***
+
 # Passo 2 / Launcher Alternativo
 
-Abra o minecraft, com pelo menos 4GB de ram alocados e logue no ip:
-**sf5.enxada.host**
+Abra o minecraft, com pelo menos 8GB de ram alocados e logue no ip:
+**enx-cirion-36.enx.host:10029**
 
 Pronto!
 
 Para quem tem duvidas no launcher:
 
 Baixe esse launcher: 
-
-[Original](https://prismlauncher.org/download/)
-
-
-[Crackeado](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/9.0/PrismLauncher-Windows-MSVC-Setup-9.0.exe)
-
+[launcher](https://prismlauncher.org/download/)
 Clique em add instance, import e selecione o zip baixado
+**ou**
+
+[esse](https://download.overwolf.com/install/Download?ExtensionId=cfiahnpaolfnlgaihhmobmnjdafknjnjdpdabpcm&utm_term=eyJkb21haW4iOiJjZi13ZWIifQ%3D%3D)
 
 ***Em caso de dúvidas, contate @nivyd no discord***
-se for problema no java eu ajudo rapidao
+
 
